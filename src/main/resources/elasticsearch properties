@@ -1,0 +1,4 @@
+elasticsearch.clustername=TEST-ES
+elasticsearch.nodename=Node-001
+elasticsearch.host=192.168.2.251
+elasticsearch.port=19201

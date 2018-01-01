@@ -1,0 +1,13 @@
+### Elasticsearch \u96c6\u7fa4\u540d\u3002(\u9ed8\u8ba4\u503c: elasticsearch)
+#spring.data.elasticsearch.cluster-name=TEST-ES
+
+### \u96c6\u7fa4\u8282\u70b9\u5730\u5740\u5217\u8868\uff0c\u7528\u9017\u53f7\u5206\u9694\u3002\u5982\u679c\u6ca1\u6709\u6307\u5b9a\uff0c\u5c31\u542f\u52a8\u4e00\u4e2a\u5ba2\u6237\u7aef\u8282\u70b9\u3002
+#spring.data.elasticsearch.cluster-nodes=192.168.2.251:19201
+#spring.data.elasticsearch.cluster-nodes=192.168.2.251:19201,192.168.2.251:19301,192.168.2.251:19401
+
+### \u7528\u6765\u914d\u7f6e\u5ba2\u6237\u7aef\u7684\u989d\u5916\u5c5e\u6027\u3002
+### spring.data.elasticsearch.propertie
+
+### \u5f00\u542f Elasticsearch \u4ed3\u5e93\u3002(\u9ed8\u8ba4\u503c:true\u3002) 
+#spring.data.elasticsearch.repositories.enabled=true
+
